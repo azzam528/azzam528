@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Azzam
+name: Muhamad Abdulloh Azzam
 username: azzam528
 education: Automation Engineering
 
