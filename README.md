@@ -1,36 +1,31 @@
 <div align="center">
 
-# █ AZZAM528
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=AZZAM528&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automation%20Engineering%20Student%20%7C%20Backend%20%7C%20Network&descAlignY=58&descSize=18"/>
 
-### AUTOMATION ENGINEERING STUDENT
-### BACKEND DEVELOPER • NETWORK ENGINEER • BUILDER
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+systems.+Breaking+limits.;Learning+everyday.;Backend+Developer+%E2%80%A2+Network+Engineer;Turning+ideas+into+working+systems." alt="Typing SVG" />
 
 <br>
 
-**Building systems. Breaking limits. Learning everyday.**
+<a href="https://github.com/azzam528">
+<img src="https://img.shields.io/badge/GITHUB-2C5364?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=azzam528&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
 
 </div>
 
+<br>
 
----
-
-# 👨‍💻 ABOUT ME
+## 👨‍💻 About Me
 
 ```yaml
 name: Azzam
 username: azzam528
-
-education:
-  - Automation Engineering
+education: Automation Engineering
 
 interests:
   - Backend Development
   - Network Engineering
-  - Embedded System
+  - Embedded Systems
   - Artificial Intelligence
 
 currently_learning:
@@ -41,158 +36,123 @@ currently_learning:
   - Machine Learning
 ```
 
+<br>
 
----
-
-# ⚡ TECH STACK
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git,github,vscode,cpp,arduino,unity&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git,github,vscode,cpp,arduino,unity&perline=6" alt="Tech Stack"/>
 
 </div>
 
+<br>
 
----
+## 🚧 What I'm Building
 
-# 🚧 WHAT I'M BUILDING
-
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🏥 SITARA BACKEND
+### 🏥 SITARA Backend
+**Backend API System**
 
-Backend API System
-
-```
-FastAPI
-PostgreSQL
-SQLAlchemy
-Docker
-```
+![FastAPI](https://img.shields.io/badge/FastAPI-2C5364?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C5364?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2C5364?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2C5364?style=flat-square&logo=docker&logoColor=white)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🤖 AR Intelijen
+**Augmented Reality Project**
 
-## 🤖 AR INTELIJEN
-
-Augmented Reality Project
-
-```
-Unity
-Vuforia
-Firebase
-3D Model
-```
+![Unity](https://img.shields.io/badge/Unity-203A43?style=flat-square&logo=unity&logoColor=white)
+![Vuforia](https://img.shields.io/badge/Vuforia-203A43?style=flat-square&logo=vuforia&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-203A43?style=flat-square&logo=firebase&logoColor=white)
+![3D Model](https://img.shields.io/badge/3D%20Model-203A43?style=flat-square&logo=blender&logoColor=white)
 
 </td>
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td>
+### 🌐 Network Lab
+**Cisco Networking**
 
-## 🌐 NETWORK LAB
-
-Cisco Networking
-
-```
-VLAN
-Routing
-HSRP
-DHCP
-NAT
-```
+![VLAN](https://img.shields.io/badge/VLAN-0F2027?style=flat-square&logo=cisco&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-0F2027?style=flat-square&logo=cisco&logoColor=white)
+![HSRP](https://img.shields.io/badge/HSRP-0F2027?style=flat-square&logo=cisco&logoColor=white)
+![DHCP • NAT](https://img.shields.io/badge/DHCP%20%E2%80%A2%20NAT-0F2027?style=flat-square&logo=cisco&logoColor=white)
 
 </td>
+<td width="50%" valign="top">
 
-<td>
+### ⚙️ Automation Engineering
+**Control & Embedded Systems**
 
-## ⚙️ AUTOMATION
-
-Engineering System
-
-```
-Arduino
-Embedded System
-Control
-IoT
-```
+![Arduino](https://img.shields.io/badge/Arduino-0F2027?style=flat-square&logo=arduino&logoColor=white)
+![Embedded](https://img.shields.io/badge/Embedded%20Systems-0F2027?style=flat-square&logo=chip&logoColor=white)
+![Control](https://img.shields.io/badge/Control%20Systems-0F2027?style=flat-square&logo=controlflow&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-0F2027?style=flat-square&logo=internetcomputer&logoColor=white)
 
 </td>
-
 </tr>
-
 </table>
 
+<br>
 
----
-
-# 📊 GITHUB STATS
-
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=azzam528&show_icons=true&hide_border=true&theme=transparent"/>
-
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzam528&layout=compact&hide_border=true&theme=transparent"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=azzam528&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=2C5364&icon_color=2C5364&text_color=9f9f9f"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzam528&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=2C5364&text_color=9f9f9f"/>
 
 </div>
 
+<br>
 
----
-
-# 🔥 CONTRIBUTION STREAK
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=azzam528&hide_border=true&theme=transparent"/>
+<img src="https://streak-stats.demolab.com/?user=azzam528&hide_border=true&theme=tokyonight&background=00000000&ring=2C5364&fire=2C5364&currStreakLabel=2C5364"/>
 
 </div>
 
+<br>
 
----
+## 🧠 Engineering Mindset
 
-# 🧠 ENGINEERING MINDSET
+<div align="center">
 
-```
-01  Learn
-02  Build
-03  Debug
-04  Improve
-05  Repeat
-```
+| 01 | 02 | 03 | 04 | 05 |
+|:---:|:---:|:---:|:---:|:---:|
+| **Learn** | **Build** | **Debug** | **Improve** | **Repeat** |
 
+</div>
 
----
+<br>
 
-# 📫 CONNECT
+## 📫 Connect
 
 <div align="center">
 
 <a href="https://github.com/azzam528">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-2C5364?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-
----
+<br>
 
 <div align="center">
 
 ### ⚡ AZZAM528
-
 *"Turning ideas into working systems."*
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=azzam528&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
 
 </div>
