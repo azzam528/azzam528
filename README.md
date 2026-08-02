@@ -78,7 +78,7 @@ Docker
 
 ---
 
-## 🤖 AR Intelijen
+## 🤖 Augmented Reality
 
 ### Augmented Reality Educational Platform
 
