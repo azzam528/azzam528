@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a11cb,100:00d4ff&height=220&section=header&text=Muhamad%20Abdulloh%20Azzam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Industrial%20Informatics%20Engineering%20Student%20%7C%20Cloud%20Computing%20%7C%20Networking%20%7C%20DevOps%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=13"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a11cb,100:00d4ff&height=220&section=header&text=Muhamad%20Abdulloh%20Azzam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Industrial%20Informatics%20Engineering%20Student%20%7C%20Cloud%20Computing%20%7C%20Networking%20%7C%20DevOps&descAlignY=60&descSize=14"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=700&lines=Building+Reliable+Systems.;Exploring+Cloud+%26+DevOps.;Network+Engineering+Enthusiast.;Turning+Ideas+Into+Working+Systems." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=700&lines=Building+Reliable+Systems.;Backend+Engineering+Enthusiast.;Exploring+Cloud+%26+DevOps.;Turning+Ideas+Into+Working+Systems." />
 
 <br>
 
@@ -17,20 +17,22 @@
 
 <br>
 
+
 # 👨‍💻 About Me
 
-I am an **Industrial Informatics Engineering student at Politeknik Manufaktur Bandung** with a strong interest in **Cloud Computing, Networking, and DevOps**.
+I am an **Industrial Informatics Engineering student at Politeknik Manufaktur Bandung** with a strong interest in **Cloud Computing, Networking, DevOps, and Backend Engineering**.
 
-I have experience working on **network infrastructure projects, Linux-based systems, virtualization environments, and software development**. I am continuously improving my skills in cloud technologies, automation, infrastructure management, and modern DevOps practices.
+My focus is building **reliable and scalable systems** by combining software development, infrastructure management, and automation. I have experience developing backend services using **FastAPI**, managing databases, configuring network infrastructures, and working with **Linux-based environments and virtualization technologies**.
 
-My achievements include **1st Place in the IT Network System Administration competition at the district level**, along with involvement in various technology projects and student organizations.
+I have participated in various technology competitions, including **Lomba Kompetensi Siswa (LKS) SMK**, where I developed my skills in software engineering, networking, and problem-solving. I achieved **1st Place in IT Network System Administration** and **2nd Place in IT Software Solution for Business** at the district level.
 
-I am passionate about building reliable systems, solving technical problems, and continuously learning new technologies to prepare for opportunities in the global technology industry.
+Currently, I am continuously improving my skills in **cloud infrastructure, DevOps practices, backend development, and modern software engineering** to build solutions that can be applied in real-world environments.
 
 
 <br>
 
-# ⚡ Tech Stack
+
+# ⚡ Technical Skills
 
 <div align="center">
 
@@ -41,29 +43,36 @@ I am passionate about building reliable systems, solving technical problems, and
 
 <br>
 
-# 🚀 What I'm Building
+
+# 🚀 Featured Engineering Projects
 
 
 ## 🏥 SITARA Backend
 
-A healthcare management backend system designed to provide scalable and structured API services.
+### Healthcare Management Backend System
 
-**Technology:**
+A backend service designed to support healthcare management workflows through scalable and maintainable RESTful APIs.
+
+The system focuses on implementing structured backend architecture, database management, and efficient communication between services.
+
+**Engineering Focus**
+
+```
+RESTful API Development
+Backend Architecture
+Database Design
+Authentication System
+API Documentation
+```
+
+**Technology Stack**
 
 ```
 FastAPI
 PostgreSQL
-SQLAlchemy
+SQLAlchemy ORM
+Pydantic
 Docker
-```
-
-**Focus:**
-
-```
-REST API Development
-Database Architecture
-Backend Engineering
-Containerization
 ```
 
 
@@ -71,24 +80,29 @@ Containerization
 
 ## 🤖 AR Intelijen
 
-An Augmented Reality learning platform that combines interactive 3D visualization with digital information.
+### Augmented Reality Educational Platform
 
-**Technology:**
+An Augmented Reality-based application that combines real-world objects with digital information through interactive 3D visualization.
+
+The project focuses on integrating computer vision, 3D assets, and mobile application development for educational purposes.
+
+**Engineering Focus**
+
+```
+Augmented Reality Development
+3D Visualization
+Mobile Application
+Interactive Learning System
+```
+
+**Technology Stack**
 
 ```
 Unity Engine
-Vuforia AR
+Vuforia Engine
 Firebase
-3D Modeling
-```
-
-**Focus:**
-
-```
-Augmented Reality
-Interactive Learning
-Mobile Application
-3D Visualization
+Blender
+C#
 ```
 
 
@@ -96,26 +110,31 @@ Mobile Application
 
 ## 🌐 Network Infrastructure Lab
 
-Enterprise network simulation and implementation using Cisco technologies.
+### Enterprise Network Simulation & Design
 
-**Technology:**
+A networking project focused on designing reliable and scalable enterprise network infrastructure using Cisco technologies.
+
+The implementation covers network segmentation, redundancy, and infrastructure troubleshooting.
+
+**Engineering Focus**
 
 ```
-Cisco Networking
+Network Architecture
+VLAN Segmentation
+Routing Configuration
+High Availability
+Network Troubleshooting
+```
+
+**Technology Stack**
+
+```
+Cisco IOS
 VLAN
-Routing
 HSRP
 DHCP
 NAT
-```
-
-**Focus:**
-
-```
-Network Design
-Infrastructure Management
-Troubleshooting
-Network Security
+Routing
 ```
 
 
@@ -123,28 +142,45 @@ Network Security
 
 ## ⚙️ Automation & Embedded System
 
-Exploring the integration between software and hardware through automation technology.
+### Industrial Automation Exploration
 
-**Technology:**
+Projects exploring the integration between software, hardware, and control systems for industrial applications.
+
+The focus is developing automation solutions through embedded programming and IoT concepts.
+
+**Engineering Focus**
+
+```
+Embedded Programming
+Hardware Integration
+Control System
+IoT Development
+```
+
+**Technology Stack**
 
 ```
 Arduino
-Embedded Programming
-IoT
-Control System
-```
-
-**Focus:**
-
-```
-Automation
-Hardware Integration
-Industrial Technology
-Smart System
+C/C++
+Microcontroller
+Sensors
+IoT Platform
 ```
 
 
 <br>
+
+
+# 🏆 Achievements
+
+| Competition | Achievement |
+|-------------|-------------|
+| Lomba Kompetensi Siswa (LKS) SMK - IT Network System Administration | 🥇 1st Place - District Level |
+| Lomba Kompetensi Siswa (LKS) SMK - IT Software Solution for Business | 🥈 2nd Place - District Level |
+
+
+<br>
+
 
 # 📊 GitHub Analytics
 
@@ -159,6 +195,7 @@ Smart System
 
 <br>
 
+
 # 📈 Contribution Activity
 
 <div align="center">
@@ -169,6 +206,7 @@ Smart System
 
 
 <br>
+
 
 # 🔥 Contribution Streak
 
@@ -181,37 +219,6 @@ Smart System
 
 <br>
 
-# 🧠 Engineering Mindset
-
-<div align="center">
-
-```
-LEARN
-  ↓
-BUILD
-  ↓
-DEBUG
-  ↓
-IMPROVE
-  ↓
-REPEAT
-```
-
-</div>
-
-
-<br>
-
-# 🏆 Achievement
-
-```
-🥇 1st Place
-IT Network System Administration Competition
-District Level
-```
-
-
-<br>
 
 # 📫 Connect
 
@@ -225,6 +232,7 @@ District Level
 
 
 <br>
+
 
 <div align="center">
 
