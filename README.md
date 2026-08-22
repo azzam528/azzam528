@@ -43,19 +43,6 @@ Currently, I am continuously improving my skills in **cloud infrastructure, DevO
 <br>
 
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=azzam528&show_icons=true&hide_border=true&theme=radical&bg_color=00000000&title_color=00d4ff&icon_color=B026FF&text_color=ffffff"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzam528&layout=compact&hide_border=true&theme=radical&bg_color=00000000&title_color=00d4ff&text_color=ffffff"/>
-
-</div>
-
-
-<br>
-
 
 # 📈 Contribution Activity
 
