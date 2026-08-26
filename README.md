@@ -20,7 +20,7 @@
 
 # 👨‍💻 About Me
 
-I am an **Industrial Informatics Engineering student at Politeknik Manufaktur Bandung** with a strong interest in **Cloud Computing, Networking, DevOps, and Backend Engineering**.
+I am an **Industrial Informatics Engineering student at Politeknik Manufaktur Bandung** with a strong interest in **Cloud Computing, Networking, and Backend Engineering**.
 
 My focus is building **reliable and scalable systems** by combining software development, infrastructure management, and automation. I have experience developing backend services using **FastAPI**, managing databases, configuring network infrastructures, and working with **Linux-based environments and virtualization technologies**.
 
