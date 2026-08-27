@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a11cb,100:00d4ff&height=220&section=header&text=Muhamad%20Abdulloh%20Azzam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Industrial%20Informatics%20Engineering%20Student%20%7C%20Cloud%20Computing%20%7C%20Networking%20%7C%20DevOps&descAlignY=60&descSize=14"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a11cb,100:00d4ff&height=220&section=header&text=Muhamad%20Abdulloh%20Azzam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Industrial%20Informatics%20Engineering%20Student%20%&descAlignY=60&descSize=14"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=700&lines=Building+Reliable+Systems.;Backend+Engineering+Enthusiast.;Exploring+Cloud+%26+DevOps.;Turning+Ideas+Into+Working+Systems." />
 
