@@ -53,16 +53,9 @@ Currently, I am continuously improving my skills in **cloud infrastructure, DevO
 </div>
 
 
-<br>
 
 
-# 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=azzam528&hide_border=true&theme=radical&background=00000000&ring=00d4ff&fire=B026FF"/>
-
-</div>
 
 
 <br>
