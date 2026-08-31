@@ -44,15 +44,6 @@ Currently, I am continuously improving my skills in **cloud infrastructure, DevO
 
 
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azzam528&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
-
-<br>
 
 
 # 🔥 Contribution Streak
