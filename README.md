@@ -75,9 +75,9 @@ Currently, I am continuously improving my skills in **cloud infrastructure, DevO
 
 <div align="center">
 
-### ⚡ MUHAMAD ABDULLOH AZZAM
+###  MUHAMAD ABDULLOH AZZAM
 
-*"Turning ideas into reliable systems."*
+
 
 <br>
 
