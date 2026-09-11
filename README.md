@@ -36,7 +36,7 @@ Currently, I am continuously improving my skills in **cloud infrastructure, DevO
 
 | Competition | Achievement |
 |-------------|-------------|
-| 🏥 Kompetisi Mahasiswa Informatika Politeknik Nasional (KMIPN) - Kategori Solusi Inovatif | 🥈 2nd Place |
+| 🏥 Kompetisi Mahasiswa Informatika Politeknik Nasional (KMIPN) - E-Government Kategori Solusi Inovatif | 🥈 2nd Place |
 | 🌐 Lomba Kompetensi Siswa (LKS) SMK - IT Network System Administration | 🥇 1st Place - District Level |
 | 💻 Lomba Kompetensi Siswa (LKS) SMK - IT Software Solution for Business | 🥈 2nd Place - District Level |
 
