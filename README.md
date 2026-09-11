@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a11cb,100:00d4ff&height=220&section=header&text=Muhamad%20Abdulloh%20Azzam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Industrial%20Informatics%20Engineering%20Student%20%&descAlignY=60&descSize=14"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a11cb,100:00d4ff&height=220&section=header&text=Muhamad%20Abdulloh%20Azzam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Industrial%20Informatics%20Engineering%20Student&descAlignY=60&descSize=14"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=700&lines=Building+Reliable+Systems.;Backend+Engineering+Enthusiast.;Exploring+Cloud+%26+DevOps.;Turning+Ideas+Into+Working+Systems." />
 
@@ -24,7 +24,7 @@ I am an **Industrial Informatics Engineering student at Politeknik Manufaktur Ba
 
 My focus is building **reliable and scalable systems** by combining software development, infrastructure management, and automation. I have experience developing backend services using **FastAPI**, managing databases, configuring network infrastructures, and working with **Linux-based environments and virtualization technologies**.
 
-I have participated in various technology competitions, including **Lomba Kompetensi Siswa (LKS) SMK**, where I developed my skills in software engineering, networking, and problem-solving. I achieved **1st Place in IT Network System Administration** and **2nd Place in IT Software Solution for Business** at the district level.
+I have participated in various technology competitions, including **Lomba Kompetensi Siswa (LKS) SMK** and **Kompetisi Mahasiswa Informatika Politeknik Nasional (KMIPN)**, where I developed my skills in software engineering, networking, problem-solving, and innovative solution development.
 
 Currently, I am continuously improving my skills in **cloud infrastructure, DevOps practices, backend development, and modern software engineering** to build solutions that can be applied in real-world environments.
 
@@ -36,14 +36,12 @@ Currently, I am continuously improving my skills in **cloud infrastructure, DevO
 
 | Competition | Achievement |
 |-------------|-------------|
-| Lomba Kompetensi Siswa (LKS) SMK - IT Network System Administration | 🥇 1st Place - District Level |
-| Lomba Kompetensi Siswa (LKS) SMK - IT Software Solution for Business | 🥈 2nd Place - District Level |
+| 🏥 Kompetisi Mahasiswa Informatika Politeknik Nasional (KMIPN) - Kategori Solusi Inovatif | 🥈 2nd Place |
+| 🌐 Lomba Kompetensi Siswa (LKS) SMK - IT Network System Administration | 🥇 1st Place - District Level |
+| 💻 Lomba Kompetensi Siswa (LKS) SMK - IT Software Solution for Business | 🥈 2nd Place - District Level |
 
 
 <br>
-
-
-
 
 
 # 🔥 Contribution Streak
@@ -53,7 +51,6 @@ Currently, I am continuously improving my skills in **cloud infrastructure, DevO
 <img src="https://streak-stats.demolab.com/?user=azzam528&hide_border=true&theme=radical&background=00000000&ring=00d4ff&fire=B026FF"/>
 
 </div>
-
 
 
 <br>
@@ -75,9 +72,7 @@ Currently, I am continuously improving my skills in **cloud infrastructure, DevO
 
 <div align="center">
 
-###  MUHAMAD ABDULLOH AZZAM
-
-
+### MUHAMAD ABDULLOH AZZAM
 
 <br>
 
