@@ -18,7 +18,7 @@
 <br>
 
 
-# 👨‍💻 About Me
+# About Me
 
 I am an **Industrial Informatics Engineering student at Politeknik Manufaktur Bandung** with a strong interest in **Cloud Computing, Networking, and Backend Engineering**.
 
@@ -32,19 +32,19 @@ Currently, I am continuously improving my skills in **cloud infrastructure, DevO
 <br>
 
 
-# 🏆 Achievements
+# Achievements
 
 | Competition | Achievement |
 |-------------|-------------|
-| 🏥 Kompetisi Mahasiswa Informatika Politeknik Nasional (KMIPN) - E-Government Kategori Solusi Inovatif | 🥈 2nd Place |
-| 🌐 Lomba Kompetensi Siswa (LKS) SMK - IT Network System Administration | 🥇 1st Place - District Level |
-| 💻 Lomba Kompetensi Siswa (LKS) SMK - IT Software Solution for Business | 🥈 2nd Place - District Level |
+|  Kompetisi Mahasiswa Informatika Politeknik Nasional (KMIPN) - E-Government Kategori Solusi Inovatif | 🥈 2nd Place |
+|  Lomba Kompetensi Siswa (LKS) SMK - IT Network System Administration | 🥇 1st Place - District Level |
+|  Lomba Kompetensi Siswa (LKS) SMK - IT Software Solution for Business | 🥈 2nd Place - District Level |
 
 
 <br>
 
 
-# 🔥 Contribution Streak
+# Contribution Streak
 
 <div align="center">
 
@@ -56,7 +56,7 @@ Currently, I am continuously improving my skills in **cloud infrastructure, DevO
 <br>
 
 
-# 📫 Connect
+# Connect
 
 <div align="center">
 
